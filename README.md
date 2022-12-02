@@ -6,7 +6,7 @@ This is a mod for Total War Warhammer 3 to help identify which faction is causin
 
 ## How to install
 
-Download the latest mod file [here]().
+Download the latest mod file [here](https://github.com/DasAng/debug_crash_twh3/blob/main/ang_debug_crash.pack).
 
 Place it inside your Total War Warhammer 3 data folder:
 
