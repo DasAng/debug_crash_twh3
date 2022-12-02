@@ -109,3 +109,9 @@ cm:set_skip_faction_turn(f, false)
 ```
 
 And execute the script again using step 4.
+
+# Extra
+
+As a bonus I have also fixed another bug I found in the game. The script file wh3_campaign_character_upgrading.lua in the original game has a bug related to equipping ancillary.
+
+The file **wh3_campaign_character_upgrading.lua** in this repository fixes the bug and is included in the mod.
